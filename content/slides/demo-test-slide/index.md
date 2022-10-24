@@ -13,14 +13,11 @@ image:
   preview_only: false
   alt_text: Yep
 ---
-\---
+#Slide 1 YOU CAN WIN
+`---`
 
-YOU CAN WIN
----
-\---
+##Slide 2 YOU WILL WIN
 
-YOU WILL WIN
+`---`
 
-\---
-
-WIN NOW
+###Slide 3 WIN NOW
