@@ -16,7 +16,7 @@ image:
 \---
 
 YOU CAN WIN
-
+---
 \---
 
 YOU WILL WIN
