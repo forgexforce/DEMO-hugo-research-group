@@ -6,18 +6,25 @@ draft: false
 tags:
   - please
 slides:
-  theme: e
+  theme: white
+  highlight_style: github
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
   alt_text: Yep
 ---
-#Slide 1 YOU CAN WIN
-`---`
 
-##Slide 2 YOU WILL WIN
+# Slide 1 YOU CAN WIN
 
-`---`
+---
 
-###Slide 3 WIN NOW
+## Slide 2 YOU WILL WIN
+
+---
+
+## Slide 3 WIN NOW
+
+--- 
+
+## WIN NOW
