@@ -17,13 +17,20 @@ image:
 
 # Slide 1 YOU CAN WIN
 
+ - Yes You Can
+ - Win You Must
+
 ---
 
 ## Slide 2 YOU WILL WIN
 
+  - Do It Now
+
 ---
 
 ## Slide 3 WIN NOW
+
+ - Just Wow Wow
 
 --- 
 
