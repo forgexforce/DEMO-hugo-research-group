@@ -1,4 +1,11 @@
+
+mkdir -p assets/css/libs/chroma/
+hugo gen chromastyles > assets/css/libs/chroma/github.css
+
+
 # [Hugo Research Group Theme](https://github.com/wowchemy/starter-hugo-research-group)
+
+
 
 [![Screenshot](./preview.png)](https://wowchemy.com/hugo-themes/)
 
